@@ -2,11 +2,12 @@
   "name": "vite-project",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --port 8900",
     "build": "vite build"
   },
   "dependencies": {
-    "vue": "^3.0.5"
+    "vue": "^3.0.5",
+    "weui": "^2.4.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.0.4",
