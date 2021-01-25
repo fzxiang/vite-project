@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "vue": "^3.0.5",
-    "weui": "^2.4.1"
+    "weui-for-work": "^1.1.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.0.4",
